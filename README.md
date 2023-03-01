@@ -1,3 +1,15 @@
+
+
+# OSM 2 GeoJSON
+
+Note: I displayed only some attributes from the features for the case study. 
+
+## 🚀 How to create the geolocation box
+To get the geolocation box, you only need 2 clicks, northwestern click and a southeastern click. example below:
+
+![rectangle](https://user-images.githubusercontent.com/35670834/222185016-39d939d8-5f68-4e8e-9adc-52351d48a598.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
