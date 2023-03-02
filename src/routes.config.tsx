@@ -11,10 +11,6 @@ export interface Route {
 
 export const routes: Array<Route> = [
   { name: 'Test', path: '/', Component: mapView, protect: false },
-  // { name: 'Models', path: '/models', Component: ServiceFeeModels, protect: true },
-  // { name: 'Model Name', path: '/model/:uuid/*', Component: FeeModel, protect: true },
-  // { name: 'Auth', path: '/auth/callback', Component: AuthCallback, protect: false },
-  // { name: 'Logout', path: '/logout', Component: Logout, protect: false }
 ];
 
 export const matchRoutes = (routes: Array<Route>, path: string) => {
