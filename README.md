@@ -2,8 +2,6 @@
 
 # OSM 2 GeoJSON
 
-Note: I displayed only some attributes from the features for the case study. 
-
 ## 🚀 How to create the geolocation box
 To get the geolocation box, you only need 2 clicks, northwestern click and a southeastern click. example below:
 
